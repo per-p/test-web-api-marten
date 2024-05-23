@@ -1,0 +1,39 @@
+version: '3.8'
+services:
+  api:
+    container_name: marten_test
+    image: example/martenwebapi
+    build:
+      dockerfile: ./Dockerfile
+    depends_on: 
+      - db
+    networks:
+      - mynet
+    environment:
+      PG_HOST: db
+      PG_PORT: 5432
+      PG_USER: ${PG_USER}
+      PG_PASSWORD: ${PG_PASSWORD}
+      PG_DATABASE: ${PG_DATABASE}
+    ports:
+      - '8080:8080'
+    links:
+      - db
+  db:
+    container_name: martendb
+    image: postgres:16.2-alpine3.19
+    networks:
+      - mynet
+    environment:
+      POSTGRES_USER: ${PG_USER}
+      POSTGRES_PASSWORD: ${PG_PASSWORD}
+    ports:
+      - '5432:5432'
+    volumes:
+      - db:/var/lib/postgresql/data
+networks:
+  mynet:
+    driver: bridge
+volumes:
+  db:
+    driver: local

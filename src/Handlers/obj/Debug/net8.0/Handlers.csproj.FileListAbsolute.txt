@@ -1,0 +1,15 @@
+C:\git\test-web-api-marten\src\Handlers\bin\Debug\net8.0\Handlers.deps.json
+C:\git\test-web-api-marten\src\Handlers\bin\Debug\net8.0\Handlers.dll
+C:\git\test-web-api-marten\src\Handlers\bin\Debug\net8.0\Handlers.pdb
+C:\git\test-web-api-marten\src\Handlers\obj\Debug\net8.0\Handlers.csproj.AssemblyReference.cache
+C:\git\test-web-api-marten\src\Handlers\obj\Debug\net8.0\Handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\test-web-api-marten\src\Handlers\obj\Debug\net8.0\Handlers.AssemblyInfoInputs.cache
+C:\git\test-web-api-marten\src\Handlers\obj\Debug\net8.0\Handlers.AssemblyInfo.cs
+C:\git\test-web-api-marten\src\Handlers\obj\Debug\net8.0\Handlers.csproj.CoreCompileInputs.cache
+C:\git\test-web-api-marten\src\Handlers\obj\Debug\net8.0\Handlers.dll
+C:\git\test-web-api-marten\src\Handlers\obj\Debug\net8.0\refint\Handlers.dll
+C:\git\test-web-api-marten\src\Handlers\obj\Debug\net8.0\Handlers.pdb
+C:\git\test-web-api-marten\src\Handlers\obj\Debug\net8.0\ref\Handlers.dll
+C:\git\test-web-api-marten\src\Handlers\bin\Debug\net8.0\Data.Model.dll
+C:\git\test-web-api-marten\src\Handlers\bin\Debug\net8.0\Data.Model.pdb
+C:\git\test-web-api-marten\src\Handlers\obj\Debug\net8.0\Handlers.csproj.Up2Date

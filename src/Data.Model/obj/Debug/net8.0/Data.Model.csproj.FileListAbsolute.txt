@@ -1,0 +1,11 @@
+C:\git\test-web-api-marten\src\Data.Model\bin\Debug\net8.0\Data.Model.deps.json
+C:\git\test-web-api-marten\src\Data.Model\bin\Debug\net8.0\Data.Model.dll
+C:\git\test-web-api-marten\src\Data.Model\bin\Debug\net8.0\Data.Model.pdb
+C:\git\test-web-api-marten\src\Data.Model\obj\Debug\net8.0\Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\test-web-api-marten\src\Data.Model\obj\Debug\net8.0\Data.Model.AssemblyInfoInputs.cache
+C:\git\test-web-api-marten\src\Data.Model\obj\Debug\net8.0\Data.Model.AssemblyInfo.cs
+C:\git\test-web-api-marten\src\Data.Model\obj\Debug\net8.0\Data.Model.csproj.CoreCompileInputs.cache
+C:\git\test-web-api-marten\src\Data.Model\obj\Debug\net8.0\Data.Model.dll
+C:\git\test-web-api-marten\src\Data.Model\obj\Debug\net8.0\refint\Data.Model.dll
+C:\git\test-web-api-marten\src\Data.Model\obj\Debug\net8.0\Data.Model.pdb
+C:\git\test-web-api-marten\src\Data.Model\obj\Debug\net8.0\ref\Data.Model.dll
